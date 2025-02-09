@@ -6,6 +6,3 @@ As I continue experimenting with GitHub, I hope to gain a deeper understanding o
 I’m eager to see how well it integrates with other tools and workflows, and how it helps keep projects organized and efficient. 
 With GitHub, there’s always something new to learn, and I’m excited to dive deeper into all its features.
 Here’s to new challenges and growth!
-<div>Hello<div/>
-<p>world<p/>
-<p>there<p/>
